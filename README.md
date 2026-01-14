@@ -34,22 +34,22 @@ An AI-powered terminal assistant using **LangChain’s ShellTool** to perform sa
 
    ```bash
    git clone https://github.com/CrAnish07/Terminal-Security-Agent.git
-   cd Terminal-Security-Agent ```
+   cd Terminal-Security-Agent 
 
 2. Create a `.env` file with your OpenAI or GOOGLE API key:
    
    ```bash
-   OPENAI_API_KEY=your_openai_api_key_here```
+   OPENAI_API_KEY=your_openai_api_key_here
 
 4. Install dependencies:
 
    ```bash
-   pip install -r requirements.txt```
+   pip install -r requirements.txt
 
 5. Run the assistant:
 
    ```bash
-   python main.py```
+   python main.py
 
 ## Project Structure
 
@@ -80,4 +80,5 @@ Result:
 
 
    
+
 
